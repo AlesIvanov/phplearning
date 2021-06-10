@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="96ce93be-f72f-48eb-b1d0-f1eb28c5a452" name="pandora" url="http://PANDORA.LITE-HOST.IN">
+        <fileTransfer host="PANDORA.LITE-HOST.IN" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
